@@ -1,104 +1,98 @@
-<!-- ========================= -->
-<!--     GitHub Profile README -->
-<!-- White & Lavender Theme    -->
-<!-- ========================= -->
+<div align="center">
 
-<h1 align="center">
-  ✨ Hi, I'm Riya Kumari 👋
-</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Riya Kumari
 
-<h3 align="center">
-💜 Aspiring Software Developer | B.Tech CSE Student | Lifelong Learner
-</h3>
+### 💻 Aspiring Software Developer
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=B57EDC&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;B.Tech+CSE+Student;Frontend+Developer;Currently+Learning+JavaScript;DSA+Enthusiast;Always+Building+Something+New" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Building+the+Future+with+Code;B.Tech+CSE+Student;Frontend+Developer;Learning+JavaScript;DSA+Enthusiast;Open+Source+Learner"/>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39FF14&style=for-the-badge)
+
+</div>
 
 ---
 
-# 💜 About Me
+# ⚡ About Me
 
-```yaml
-Name: Riya Kumari
-Education: B.Tech in Computer Science Engineering
-University: ICFAI University, Jharkhand
+```cpp
+class Riya {
 
-Role:
-  - Aspiring Software Developer
-  - Frontend Developer
-  - Problem Solver
+public:
 
-Currently Learning:
-  - JavaScript
-  - Advanced Web Development
+string role = "Aspiring Software Developer";
 
-Interested In:
-  - Software Development
-  - Frontend Engineering
-  - DSA
-  - Open Source
+string university = "ICFAI University, Jharkhand";
+
+vector<string> languages = {
+"C",
+"C++",
+"Python",
+"HTML",
+"CSS",
+"JavaScript"
+};
+
+string currentFocus = "Mastering JavaScript";
+
+string interests = {
+"Software Development",
+"Frontend",
+"DSA",
+"Open Source"
+};
+
+};
 ```
 
 ---
 
-# 🌸 Tech Stack
+# 🖥 Tech Stack
 
-### 💻 Programming Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python"/>
+
 </p>
-
----
-
-### ⚡ Currently Mastering
-
-<p>
-<img src="https://skillicons.dev/icons?i=javascript" height="60"/>
-</p>
-
-✔ Modern JavaScript
-
-✔ ES6+
-
-✔ DOM Manipulation
-
-✔ Projects
-
-✔ Clean Code
 
 ---
 
 # 🛠 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,canva" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,canva"/>
+
 </p>
 
 ---
 
-# 📚 Currently Working On
+# 🚀 Currently Learning
 
-🌸 Improving JavaScript Skills
+```text
+███████████████████████████████░░░░░░
 
-🌸 Building Responsive Websites
+JavaScript
 
-🌸 Practicing DSA
+Building Projects
 
-🌸 Growing My GitHub Portfolio
+Advanced DOM
 
-🌸 Preparing for Software Development Roles
+ES6+
+
+Responsive UI
+
+DSA Practice
+```
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=B57EDC&icon_color=B57EDC&text_color=555&border_color=E6E6FA"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&border_color=39FF14"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=B57EDC&text_color=555&border_color=E6E6FA"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&border_color=39FF14"/>
 
 </p>
 
@@ -108,51 +102,27 @@ Interested In:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&ring=B57EDC&fire=B57EDC&currStreakLabel=B57EDC&border=E6E6FA"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border=39FF14"/>
 
 </p>
 
 ---
 
-# 🌱 Learning Journey
+# 🐍 Contribution Snake
 
-```text
-HTML      ████████████████████ 100%
+<p align="center">
 
-CSS       ███████████████████░ 95%
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
 
-Python    ██████████████████░░ 90%
-
-C         ██████████████████░░ 90%
-
-C++       ██████████████████░░ 90%
-
-DSA       █████████████████░░░ 85%
-
-JavaScript ████████████░░░░░░░ 65%
-```
+</p>
 
 ---
 
-# 🌸 Goals for 2026
+# 🌐 Connect
 
-✅ Master JavaScript
+<p align="center">
 
-✅ Build Full-Stack Projects
-
-✅ Contribute to Open Source
-
-✅ Solve 300+ DSA Problems
-
-✅ Land My First Software Developer Internship
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -164,10 +134,10 @@ JavaScript ████████████░░░░░░░ 65%
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 💜 "Code. Learn. Build. Repeat."
+## ⚡ "Turning Coffee into Code"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC,E6E6FA,FFFFFF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14,00FF7F,0D1117&height=150&section=footer"/>
 
-</p>
+</div>
